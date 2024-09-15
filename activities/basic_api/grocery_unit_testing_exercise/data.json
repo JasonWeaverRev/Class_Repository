@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bread",
+    "quantity": 4,
+    "price": "1.99",
+    "purchased": false
+  },
+  {
+    "name": "Salad",
+    "quantity": 3,
+    "price": "2.99",
+    "purchased": false
+  }
+]

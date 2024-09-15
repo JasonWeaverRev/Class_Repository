@@ -1,0 +1,230 @@
+2024-09-13T18:53:30.293Z, [info]: Server is running on http://localhost:3000
+2024-09-13T18:53:34.813Z, [info]: [POST /]
+2024-09-13T18:53:34.816Z, [info]: Request body: {
+    "name" : "milk",
+    "quantity" : 4,
+    "price" : 1.20,
+    "purchased" : false
+}
+2024-09-13T18:54:33.711Z, [info]: [POST /]
+2024-09-13T18:54:33.712Z, [info]: Request body: {
+    "name" : "cheese",
+    "quantity" : 4,
+    "price" : 1.20,
+    "purchased" : false
+}
+2024-09-13T18:56:23.304Z, [info]: Server is running on http://localhost:3000
+2024-09-13T18:58:12.523Z, [info]: Server is running on http://localhost:3000
+2024-09-13T18:58:17.650Z, [info]: [POST /]
+2024-09-13T18:59:22.766Z, [info]: Server is running on http://localhost:3000
+2024-09-13T18:59:27.674Z, [info]: [POST /]
+2024-09-13T19:00:21.163Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:00:26.014Z, [info]: [POST /]
+2024-09-13T19:01:06.559Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:01:09.528Z, [info]: [POST /]
+2024-09-13T19:01:09.531Z, [info]: Request body: {
+    "name" : "cheese",
+    "quantity" : 4,
+    "price" : 1.20,
+    "purchased" : false
+}
+2024-09-13T19:03:33.822Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:03:39.895Z, [info]: [POST /]
+2024-09-13T19:03:39.896Z, [info]: Request body: {
+    "name" : "cheese",
+    "quantity" : 4,
+    "price" : 1.20,
+    "purchased" : false
+}
+2024-09-13T19:05:34.516Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:05:37.164Z, [info]: [POST /]
+2024-09-13T19:05:37.166Z, [info]: Request body: {
+    "name" : "cheese",
+    "quantity" : 4,
+    "price" : 1.20,
+    "purchased" : false
+}
+2024-09-13T19:05:44.106Z, [info]: [GET /]
+2024-09-13T19:06:44.645Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:06:48.631Z, [info]: [POST /]
+2024-09-13T19:06:48.633Z, [info]: Request body: {
+    "name" : "cheese",
+    "quantity" : 4,
+    "price" : 1.20,
+    "purchased" : false
+}
+2024-09-13T19:06:51.397Z, [info]: [GET /]
+2024-09-13T19:08:05.738Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:08:10.803Z, [info]: [POST /]
+2024-09-13T19:08:10.805Z, [info]: Request body: {
+    "name" : "cheese",
+    "quantity" : 4,
+    "price" : 1.20,
+    "purchased" : false
+}
+2024-09-13T19:08:14.138Z, [info]: [GET /]
+2024-09-13T19:08:52.233Z, [info]: [POST /]
+2024-09-13T19:08:52.234Z, [info]: Request body: {
+    "name" : "milk",
+    "quantity" : 4,
+    "price" : 1.20,
+    "purchased" : false
+}
+2024-09-13T19:24:59.752Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:25:19.249Z, [info]: [GET /]
+2024-09-13T19:25:36.423Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:25:39.466Z, [info]: [GET /]
+2024-09-13T19:26:17.340Z, [info]: Server is running on http://localhost:3000
+2024-09-13T19:26:25.128Z, [info]: [GET /]
+2024-09-14T22:04:35.919Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:05:01.512Z, [info]: [POST /items]
+2024-09-14T22:05:24.696Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:05:54.845Z, [info]: [POST /items]
+2024-09-14T22:06:13.652Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:06:15.815Z, [info]: [POST /items]
+2024-09-14T22:07:38.365Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:07:40.948Z, [info]: [POST /items]
+2024-09-14T22:08:43.992Z, [info]: [POST /items]
+2024-09-14T22:08:55.367Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:09:59.096Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:10:01.156Z, [info]: [POST /items]
+2024-09-14T22:11:21.827Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:11:26.529Z, [info]: [POST /items]
+2024-09-14T22:11:44.228Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:11:47.355Z, [info]: [POST /items]
+2024-09-14T22:12:52.548Z, [info]: Server is running on http://localhost:3000
+2024-09-14T22:12:56.639Z, [info]: [POST /items]
+2024-09-14T22:12:56.641Z, [info]: Shopping List updated in data.json
+2024-09-14T22:12:56.642Z, [info]: Added item: milk
+2024-09-14T22:13:25.382Z, [info]: [POST /items]
+2024-09-14T22:13:25.383Z, [info]: Shopping List updated in data.json
+2024-09-14T22:13:25.383Z, [info]: Added item: milk
+2024-09-15T00:02:46.475Z, [info]: Server is running on http://localhost:3000
+2024-09-15T00:03:30.943Z, [info]: [POST /items]
+2024-09-15T00:03:30.946Z, [info]: Shopping List updated in data.json
+2024-09-15T00:03:30.946Z, [info]: Added item: milk
+2024-09-15T00:03:54.356Z, [info]: [PUT /items/1]
+2024-09-15T00:04:30.673Z, [info]: Server is running on http://localhost:3000
+2024-09-15T00:04:39.868Z, [info]: [PUT /items/1]
+2024-09-15T00:04:39.870Z, [info]: Shopping List updated in data.json
+2024-09-15T00:04:39.870Z, [info]: Set purchasing status of item: milk
+2024-09-15T00:06:57.172Z, [info]: Server is running on http://localhost:3000
+2024-09-15T00:07:00.534Z, [info]: [PUT /items/1]
+2024-09-15T00:07:00.536Z, [info]: Shopping List updated in data.json
+2024-09-15T00:07:00.536Z, [info]: Set purchasing status of item: milk
+2024-09-15T00:07:19.112Z, [info]: Server is running on http://localhost:3000
+2024-09-15T00:08:09.879Z, [info]: [PUT /items/1]
+2024-09-15T00:08:09.881Z, [info]: Shopping List updated in data.json
+2024-09-15T00:08:09.881Z, [info]: Set purchasing status of item: milk
+2024-09-15T00:08:14.750Z, [info]: [PUT /items/1]
+2024-09-15T00:08:14.751Z, [info]: Shopping List updated in data.json
+2024-09-15T00:08:14.751Z, [info]: Set purchasing status of item: milk
+2024-09-15T00:08:22.300Z, [info]: [PUT /items/2]
+2024-09-15T00:08:22.301Z, [info]: Shopping List updated in data.json
+2024-09-15T00:08:22.301Z, [info]: Set purchasing status of item: milk
+2024-09-15T00:09:14.882Z, [info]: Server is running on http://localhost:3000
+2024-09-15T00:09:21.471Z, [info]: [PUT /items/1]
+2024-09-15T00:13:24.562Z, [info]: Server is running on http://localhost:3000
+2024-09-15T00:13:27.364Z, [info]: [POST /items/1]
+2024-09-15T00:13:27.367Z, [info]: Shopping List updated in data.json
+2024-09-15T00:13:27.367Z, [info]: Added item: cheese
+2024-09-15T00:13:35.834Z, [info]: [GET /items/]
+2024-09-15T00:13:49.073Z, [info]: [PUT /items/]
+2024-09-15T00:13:52.877Z, [info]: Server is running on http://localhost:3000
+2024-09-15T00:13:55.435Z, [info]: [PUT /items/1]
+2024-09-15T00:13:55.436Z, [info]: Shopping List updated in data.json
+2024-09-15T00:13:55.437Z, [info]: Set purchasing status of item: cheese
+2024-09-15T00:19:10.557Z, [info]: Server is running on http://localhost:3000
+2024-09-15T00:19:15.181Z, [info]: [GET /items/1]
+2024-09-15T00:19:18.326Z, [info]: [PUT /items/1]
+2024-09-15T00:19:18.327Z, [info]: Shopping List updated in data.json
+2024-09-15T00:19:18.327Z, [info]: Set purchasing status of item: cheese
+2024-09-15T00:19:22.300Z, [info]: [DELETE /items/1]
+2024-09-15T00:19:22.301Z, [info]: Shopping List updated in data.json
+2024-09-15T00:19:22.302Z, [info]: Removed item: cheese
+2024-09-15T16:54:14.060Z, [info]: Shopping List updated in data.json
+2024-09-15T16:54:14.062Z, [info]: Added item: Bread
+2024-09-15T16:58:01.646Z, [info]: Shopping List updated in data.json
+2024-09-15T16:58:01.647Z, [info]: Added item: Bread
+2024-09-15T16:58:55.043Z, [info]: Shopping List updated in data.json
+2024-09-15T16:58:55.047Z, [info]: Added item: Bread
+2024-09-15T16:58:55.050Z, [info]: Shopping List updated in data.json
+2024-09-15T16:58:55.050Z, [info]: Added item: Bread
+2024-09-15T16:59:52.710Z, [info]: Shopping List updated in data.json
+2024-09-15T16:59:52.714Z, [info]: Added item: Bread
+2024-09-15T16:59:52.716Z, [info]: Shopping List updated in data.json
+2024-09-15T16:59:52.717Z, [info]: Added item: Bread
+2024-09-15T16:59:52.717Z, [info]: Shopping List updated in data.json
+2024-09-15T16:59:52.718Z, [info]: Set purchasing status of item: Bread
+2024-09-15T17:00:02.435Z, [info]: Shopping List updated in data.json
+2024-09-15T17:00:02.440Z, [info]: Added item: Bread
+2024-09-15T17:00:02.442Z, [info]: Shopping List updated in data.json
+2024-09-15T17:00:02.442Z, [info]: Set purchasing status of item: Bread
+2024-09-15T17:02:04.114Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:04.119Z, [info]: Added item: Bread
+2024-09-15T17:02:04.120Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:04.120Z, [info]: Added item: Salad
+2024-09-15T17:02:04.127Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:04.127Z, [info]: Added item: Bread
+2024-09-15T17:02:04.128Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:04.129Z, [info]: Set purchasing status of item: Bread
+2024-09-15T17:02:23.177Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:23.181Z, [info]: Added item: Bread
+2024-09-15T17:02:23.182Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:23.183Z, [info]: Added item: Salad
+2024-09-15T17:02:23.185Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:23.186Z, [info]: Added item: Bread
+2024-09-15T17:02:23.186Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:23.187Z, [info]: Set purchasing status of item: Bread
+2024-09-15T17:02:46.189Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:46.196Z, [info]: Added item: Bread
+2024-09-15T17:02:46.197Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:46.198Z, [info]: Added item: Salad
+2024-09-15T17:02:46.200Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:46.200Z, [info]: Added item: Bread
+2024-09-15T17:02:46.201Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:46.202Z, [info]: Set purchasing status of item: Bread
+2024-09-15T17:02:48.305Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:48.312Z, [info]: Added item: Bread
+2024-09-15T17:02:48.313Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:48.314Z, [info]: Added item: Salad
+2024-09-15T17:02:48.316Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:48.317Z, [info]: Added item: Bread
+2024-09-15T17:02:48.317Z, [info]: Shopping List updated in data.json
+2024-09-15T17:02:48.318Z, [info]: Set purchasing status of item: Bread
+2024-09-15T17:04:12.938Z, [info]: Shopping List updated in data.json
+2024-09-15T17:04:12.943Z, [info]: Added item: Bread
+2024-09-15T17:04:12.943Z, [info]: Shopping List updated in data.json
+2024-09-15T17:04:12.944Z, [info]: Added item: Salad
+2024-09-15T17:04:12.946Z, [info]: Shopping List updated in data.json
+2024-09-15T17:04:12.946Z, [info]: Added item: Bread
+2024-09-15T17:04:12.947Z, [info]: Shopping List updated in data.json
+2024-09-15T17:04:12.948Z, [info]: Set purchasing status of item: Salad
+2024-09-15T17:04:40.331Z, [info]: Shopping List updated in data.json
+2024-09-15T17:04:40.339Z, [info]: Added item: Bread
+2024-09-15T17:04:40.340Z, [info]: Shopping List updated in data.json
+2024-09-15T17:04:40.341Z, [info]: Added item: Salad
+2024-09-15T17:04:40.343Z, [info]: Shopping List updated in data.json
+2024-09-15T17:04:40.343Z, [info]: Added item: Bread
+2024-09-15T17:04:40.344Z, [info]: Shopping List updated in data.json
+2024-09-15T17:04:40.345Z, [info]: Set purchasing status of item: Salad
+2024-09-15T17:05:55.101Z, [info]: Shopping List updated in data.json
+2024-09-15T17:05:55.106Z, [info]: Added item: Bread
+2024-09-15T17:05:55.107Z, [info]: Shopping List updated in data.json
+2024-09-15T17:05:55.108Z, [info]: Added item: Salad
+2024-09-15T17:05:55.110Z, [info]: Shopping List updated in data.json
+2024-09-15T17:05:55.110Z, [info]: Added item: Bread
+2024-09-15T17:05:55.111Z, [info]: Shopping List updated in data.json
+2024-09-15T17:05:55.111Z, [info]: Set purchasing status of item: Bread
+2024-09-15T17:10:25.798Z, [info]: Shopping List updated in data.json
+2024-09-15T17:10:25.803Z, [info]: Added item: Bread
+2024-09-15T17:10:25.804Z, [info]: Shopping List updated in data.json
+2024-09-15T17:10:25.804Z, [info]: Added item: Salad
+2024-09-15T17:10:25.806Z, [info]: Shopping List updated in data.json
+2024-09-15T17:10:25.807Z, [info]: Added item: Bread
+2024-09-15T17:10:25.807Z, [info]: Shopping List updated in data.json
+2024-09-15T17:10:25.808Z, [info]: Set purchasing status of item: Bread
+2024-09-15T17:11:11.305Z, [info]: Shopping List updated in data.json
+2024-09-15T17:11:11.311Z, [info]: Added item: Bread
+2024-09-15T17:11:11.312Z, [info]: Shopping List updated in data.json
+2024-09-15T17:11:11.313Z, [info]: Added item: Salad
